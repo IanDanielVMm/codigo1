@@ -1,0 +1,190 @@
+<OC!DTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Importancia de las Apps que se ejecutan desde el servidor</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+z
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color:#223D3C;
+    color:#fff;
+}
+
+header {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #FF66C4;
+    color: #fff;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul li {
+    border-right: 1px solid #fff; /* Línea vertical entre elementos */
+    padding-right: 20px; /* Espaciado entre elementos y línea vertical */
+}
+
+nav ul li:last-child {
+    border-right: none; /* Eliminar la línea vertical del último elemento */
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+}
+
+        table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    }
+    th, td {
+    border: 1px solid #0e0d0d;
+    padding: 8px;
+    text-align: left;
+    }
+
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://th.bing.com/th/id/OIP.HP_eRx5OtyWVqh-SKggK8wHaHa?rs=1&pid=ImgDetMain"width="55px" style="float: right;">
+        <h1>Importancia de las Apps que se ejecutan desde el servidor</h1>
+        <nav>
+            <hr>
+            <ul>
+                <li><a href="#Definicion">Definicion</a></li>
+                <li><a href="#Tipos">Tipos</a></li>
+                <li><a href="#Importancia">Importancia</a></li>
+                <li><a href="#Ejemplos">Ejemplos</a></li>
+                <li><a href="#Analisis">Analisis</a></li>
+                <li><a href="#Contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <video controls width="700" height="400" style="float: left; margin-right: 20px;">
+        <source src="https://www.youtube.com/watch?v=ry7mu4UCzPU" type="video/mp4">
+        
+    </video>
+    
+ 
+    <section id="Definicion">
+        <h2>Definicion</h2>
+        <p>Las aplicaciones que se ejecutan con el servidor, también conocidas como aplicaciones de servidor o aplicaciones web, son programas informáticos diseñados para funcionar en un servidor y atender las solicitudes de los clientes a través de internet. Estas aplicaciones se ejecutan en el servidor y proporcionan servicios o contenido a los usuarios que acceden a través de un navegador web u otra interfaz de cliente.</p>
+
+    </section>
+
+
+
+
+            <section id="Importancia">
+            <h2>Importancia</h2>
+            Escalabilidad: Las aplicaciones de servidor permiten una mayor escalabilidad, ya que todo el procesamiento y la lógica de negocio se ejecutan en el servidor, lo que facilita la gestión de grandes cantidades de usuarios y datos.
+<p></p>
+            Acceso multiplataforma: Las aplicaciones de servidor pueden ser accedidas desde diferentes dispositivos y plataformas, como computadoras de escritorio, dispositivos móviles y tablets, sin necesidad de adaptar la aplicación para cada uno de ellos.
+<p></p>
+            Centralización de datos: Al ejecutarse en un servidor centralizado, las aplicaciones de servidor facilitan la gestión y el almacenamiento de datos de manera centralizada, lo que garantiza la coherencia y la integridad de los datos.
+<p></p>
+            Seguridad: Las aplicaciones de servidor pueden implementar medidas de seguridad robustas, como firewalls, cifrado de datos y autenticación de usuarios, para proteger la información sensible y prevenir ataques cibernéticos.
+<p></p>
+            Actualizaciones y mantenimiento simplificados: Al estar centralizadas en el servidor, las actualizaciones y el mantenimiento de las aplicaciones pueden ser más fáciles de gestionar, ya que los cambios pueden implementarse en un único lugar y distribuirse a todos los clientes.
+<p></p>
+            Interacción en tiempo real: Las aplicaciones de servidor pueden admitir interacciones en tiempo real entre los usuarios y proporcionar actualizaciones instantáneas de contenido o datos, lo que mejora la experiencia del usuario y facilita la colaboración en tiempo real.
+
+        </section>
+
+        
+
+        <section id="Ejemplos">
+        <h1>Ejemplos</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_de_Facebook.png/220px-Logo_de_Facebook.png" alt="Logo CECYTEM" style="width: 150px";>
+        <img src="https://www.shutterstock.com/shutterstock/photos/2336427615/display_1500/stock-vector-sumenep-indonesia-july-x-new-logo-icon-twitter-app-rebranding-logo-of-twitter-2336427615.jpg" alt="" style="width: 150px";>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/640px-Gmail_icon_%282020%29.svg.png" alt="" style="width: 150px";>
+        <img src="https://m.media-amazon.com/images/G/33/gc/designs/livepreview/amazon_dkblue_noto_email_v2016_mx-main._CB468300557_.png" alt="" style="width: 150px";>
+ 
+    </section>
+
+
+    <section id="Analisis">
+        <h2>Analisis</h2>
+        <table>
+            <tr>
+                <th>Ventajas</th>
+                <th>Desventajas</th>
+            </tr>
+            <tr>
+                <td>
+                    <ul>
+                        <li>Escalabilidad: Las aplicaciones de servidor son más fáciles de escalar para manejar un mayor número de usuarios, ya que todo el procesamiento se realiza en el servidor central.</li>
+                        <li>Acceso multiplataforma: Los usuarios pueden acceder a las aplicaciones de servidor desde diferentes dispositivos y plataformas sin necesidad de instalar software adicional, ya que simplemente necesitan un navegador web compatible.</li>
+                        <li>Centralización de datos: La centralización de datos en un servidor facilita la gestión y el mantenimiento de la información, lo que garantiza la coherencia y la integridad de los datos.</li>
+                        <li>Seguridad: Las aplicaciones de servidor pueden implementar medidas de seguridad robustas en el servidor central para proteger la información sensible y prevenir ataques cibernéticos.</li>
+                        <li>Actualizaciones y mantenimiento simplificados: Las actualizaciones y el mantenimiento de las aplicaciones pueden ser más fáciles de gestionar, ya que los cambios pueden implementarse en un único lugar y distribuirse a todos los usuarios.</li>
+                        <li>Interacción en tiempo real: Las aplicaciones de servidor pueden admitir interacciones en tiempo real entre los usuarios, proporcionando actualizaciones instantáneas de contenido o datos.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul>
+                        <li>Ideal para aplicaciones empresariales y de misión crítica.</li>
+                        <li>Gran comunidad de desarrolladores.</li>
+                        <li>Herramientas como Spring y Hibernate simplifican el desarrollo de aplicaciones escalables y mantenibles.</li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+    </section>
+    
+    <ul>
+        <li>Para mas informacion visita esta pagina:</li>
+        <a href="https://ibertronica.es/blog/actualidad/que-son-los-servidores-de-aplicaciones-y-por-que-los-necesitas/#:~:text=Facilita%20la%20Integración%20y%20la,ecosistema%20tecnológico%20de%20una%20organización">Da click aquí</a>
+    </ul>
+
+    <section id="Contacto">
+        <h2>Contacto</h2>
+        <p>¿Tienes alguna pregunta o comentario? </p>
+            <label for="nombre">Nombre:</label>
+            <input type="text" id="nombre" name="nombre" required>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            <label for="mensaje">Mensaje:</label>
+            <textarea id="mensaje" name="mensaje" required></textarea>
+            <button type="submit">Enviar</button>
+        </form>
+    </section>
+
+
+    <footer>
+        <p>&copy; 2024 Importancia de las Apps que se ejecutan desde el servidor</p>
+    </footer>
+
+
+</body>
+</html>
